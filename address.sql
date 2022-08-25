@@ -1,0 +1,1 @@
+INSERT INTO `address`(`id`, `isDefault`, `uId`, `name`, `tel`, `province`, `city`, `county`, `addressDetail`, `areaCode`) VALUES (1, '1', 4, '张死神', '13333333333', '天津市', '天津市', '塘沽区', '应用语言学', '120101');

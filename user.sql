@@ -1,0 +1,1 @@
+INSERT INTO `user`(`id`, `tel`, `pwd`, `imgUrl`, `nickName`, `token`) VALUES (4, '15556631665', '666666', '/images/user.jpeg', '15556631665', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZWwiOiIxNTU1NjYzMTY2NSIsImlhdCI6MTY1MzYzMzk0MCwiZXhwIjoxNjUzNjM0MDAwfQ.NBMAdv9dbv04XJdbGfh6Lhx0rXwUXqoKkL18UXyJzYw');

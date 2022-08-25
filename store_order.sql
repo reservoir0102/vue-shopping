@@ -1,0 +1,10 @@
+INSERT INTO `store_order`(`id`, `order_id`, `goods_name`, `goods_price`, `goods_num`, `order_status`, `uId`) VALUES (3, '20220526233310908188', '赛事茶-第三届武夷茶', 476.00, 2, '2', 4);
+INSERT INTO `store_order`(`id`, `order_id`, `goods_name`, `goods_price`, `goods_num`, `order_status`, `uId`) VALUES (4, '20220526233552322642', '赛事茶-第三届武夷茶', 238.00, 1, '2', 4);
+INSERT INTO `store_order`(`id`, `order_id`, `goods_name`, `goods_price`, `goods_num`, `order_status`, `uId`) VALUES (5, '20220527000550632107', '赛事茶-第三届武夷茶', 476.00, 2, '1', 4);
+INSERT INTO `store_order`(`id`, `order_id`, `goods_name`, `goods_price`, `goods_num`, `order_status`, `uId`) VALUES (6, '20220527000739342770', '赛事茶-第三届武夷茶', 476.00, 2, '2', 4);
+INSERT INTO `store_order`(`id`, `order_id`, `goods_name`, `goods_price`, `goods_num`, `order_status`, `uId`) VALUES (7, '20220527144037318759', '赛事茶-第三届武夷茶', 238.00, 1, '1', 4);
+INSERT INTO `store_order`(`id`, `order_id`, `goods_name`, `goods_price`, `goods_num`, `order_status`, `uId`) VALUES (8, '20220527144055780360', '赛事茶-第三届武夷茶', 238.00, 1, '1', 4);
+INSERT INTO `store_order`(`id`, `order_id`, `goods_name`, `goods_price`, `goods_num`, `order_status`, `uId`) VALUES (9, '20220527144107418693', '赛事茶-第三届武夷茶', 238.00, 1, '2', 4);
+INSERT INTO `store_order`(`id`, `order_id`, `goods_name`, `goods_price`, `goods_num`, `order_status`, `uId`) VALUES (10, '20220527152118458568', '茶具-中式陶瓷茶叶,赛事茶-第三届武夷茶,绿茶-远数龙井3号', 4280.00, 30, '1', 4);
+INSERT INTO `store_order`(`id`, `order_id`, `goods_name`, `goods_price`, `goods_num`, `order_status`, `uId`) VALUES (11, '20220527152135595462', '赛事茶-第三届武夷茶', 2380.00, 10, '1', 4);
+INSERT INTO `store_order`(`id`, `order_id`, `goods_name`, `goods_price`, `goods_num`, `order_status`, `uId`) VALUES (12, '20220527152501543350', '茶具-中式陶瓷茶叶,赛事茶-第三届武夷茶,绿茶-远数龙井3号', 4306.00, 31, '2', 4);
